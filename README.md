@@ -4,7 +4,7 @@ Oficinas e atividade pontuada realizada em AED II, tendo em vista algoritmos de 
 
 ## Aluno 
 
-* Pedro Marçal Ballestero
+* Pedro Marçal Ballesteros
 
 
 
