@@ -1,0 +1,7 @@
+Complexidade de tempo:
+
+Ordenação: O(n log n)
+
+Passagem com dois ponteiros: O(n)
+
+Total: O(n log n)
